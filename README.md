@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hey, I'm Matte4773 👋
+<a href="http://wpa.qq.com/msgrd?v=3&uin=1575368293&site=qq&menu=yes">
+  <img align="left" alt="QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/tencentqq.svg" />
+</a>
 
 [![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!--
