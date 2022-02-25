@@ -17,9 +17,10 @@
   <img align="down" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/bilibili.svg" />
 </a>
 
+# Overall Rating😉
 [![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-# :flushed:My technology stack:
+# 😊My technology stack:
 ![](https://img.shields.io/badge/-android-3DDC84?logo=android&style=for-the-badge&logoColor=fff)
 <!--
 **Matte4773/Matte4773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
