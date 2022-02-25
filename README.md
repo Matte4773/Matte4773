@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://space.bilibili.com/286090636">
-  <img align="down" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/bilibili.svg" />
+  <img align="left" alt="bilibili" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.8.0/icons/bilibili.svg" />
 </a>
 
 [![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
