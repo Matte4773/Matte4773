@@ -12,6 +12,7 @@ You can find me in these places 😎
 
 # 😊My technology stack:
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Ubuntu-18.04-FF8247?style=flat-square&logo=ubuntu)](https://releases.ubuntu.com/18.04/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 <!--
 **Matte4773/Matte4773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
