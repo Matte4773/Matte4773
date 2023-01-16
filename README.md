@@ -5,7 +5,7 @@
 You can find me in these places 😎
 
 [![](https://img.shields.io/badge/-blackunlocksky@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:blackunlocksky@gmail.com)
-[![](https://img.shields.io/badge/Discord/Matte4773-6666FF?style=flat-square&logo=Discord&logoColor=0066FF)](https://discord.com/channels/@me/814091528984461323)
+[![](https://img.shields.io/badge/Discord/Matte4773#4773-6666FF?style=flat-square&logo=Discord&logoColor=0066FF)](https://discord.com/channels/@me/814091528984461323)
 
 # Overall Rating😉
 [![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
