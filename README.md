@@ -11,7 +11,7 @@ You can find me in these places 😎
 [![Matte4773's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matte4773&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 # 😊My technology stack:
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Windows-11-66b2ff?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-18.04-FF8247?style=flat-square&logo=ubuntu)](https://releases.ubuntu.com/18.04/)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 <!--
